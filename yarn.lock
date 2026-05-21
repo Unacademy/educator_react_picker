@@ -4725,9 +4725,9 @@ __metadata:
   linkType: hard
 
 "@nevware21/ts-utils@npm:>= 0.10.4 < 2.x, @nevware21/ts-utils@npm:>= 0.11.3 < 2.x, @nevware21/ts-utils@npm:>= 0.11.5 < 2.x, @nevware21/ts-utils@npm:>= 0.9.4 < 2.x":
-  version: 0.11.5
-  resolution: "@nevware21/ts-utils@npm:0.11.5"
-  checksum: 10/c7a538f6da4cb5bf7b7db4f48ab2a3cb5ec699004dbca59395d7682479a2d8430ef9a0209855ae61ba54292461f1bd8b784ee361884f812acb64b1b47b915e42
+  version: 0.14.0
+  resolution: "@nevware21/ts-utils@npm:0.14.0"
+  checksum: 10/418648a161e8c3f7f15f495c6b3f34db8a2b7afd2aa52f16b13240a3ee29402e8ea2ac7bb90385f187c1e3960391512341695accd4d738cf64a6fc826ecf894b
   languageName: node
   linkType: hard
 
